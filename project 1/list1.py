@@ -10,3 +10,5 @@ if ['Everybody'] in listExem:
 
 print(listExem.count(5))
 print(len(listExem))
+print(listExem[1])
+print(listExem[9][1])
