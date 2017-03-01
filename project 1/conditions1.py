@@ -25,3 +25,16 @@ if cond1 == "ааа":
         print("cond1_3")
         print(cond1)
 print("Конец")
+
+
+x=0
+if x<0:
+    sign=-1
+    print("Negative")
+elif x==0:
+    sign=0
+    print("Zero")
+else:
+    sign=1
+    print("Positive")
+print(sign)
